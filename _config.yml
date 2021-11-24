@@ -1,0 +1,6 @@
+theme: minima
+title: ctd-omega-design-documentation
+author: The National Archives, UK
+collections:
+  posts:
+    permalink: /:year-:month-:day-:title/
