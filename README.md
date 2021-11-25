@@ -24,10 +24,10 @@ The [live site](https://nationalarchives.github.io/ctd-omega-design-documentatio
 ### Adding images
 
 1. In GitHub, upload the image file in the `images/` folder.
-2. Reference the image with the correct path and file name from your post, with appropriate alt text: `![Image alt text](/ctd-omega-design-documentation/images/my-file-name.png)`.
+2. Reference the image with the correct path and file name from your post, with appropriate alt text: `![Image alt text](/ctd-omega-design-documentation/blob/main/images/my-file-name.png)`.
 
 Or with a link over the image:
 
 ```markdown
-[![Image alt text](/ctd-omega-design-documentation/images/my-file-name.png)](https://www.example.com/)
+[![Image alt text](/ctd-omega-design-documentation/blob/main/images/my-file-name.png)](https://www.example.com/)
 ```
